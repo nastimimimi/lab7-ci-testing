@@ -1,5 +1,5 @@
 function getCatFact() {
-  return "Dogs are better";
+  return "Cats sleep 70% of their lives";
 }
 
 module.exports = {
