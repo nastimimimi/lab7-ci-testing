@@ -1,7 +1,10 @@
 {
-  "name": "lab7-ci-testing",
+  "name": "lab7-cat-ci",
   "version": "1.0.0",
+  "description": "Simple cat project for CI лабораторної роботи",
   "scripts": {
-    "test": "node test.js"
-  }
+    "test": "node test/cat.test.js"
+  },
+  "author": "Nastia",
+  "license": "ISC"
 }
